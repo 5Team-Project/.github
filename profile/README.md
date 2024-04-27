@@ -1,6 +1,8 @@
-# 💻 코드잇 프로젝트
+# 💻 롤링
 
 - React를 이용한 프로젝트
+- # 개요
+- 소개:  추억의 롤링 페이퍼를 웹 상에서도 즐길 수 있는 플랫폼인 '롤링' 서비스를 제공된 기획과 디자인을 따라 만들어 주세요.
 
 ---
 
@@ -9,6 +11,7 @@
 -
 -
 -
+
 ***
 
 ## 💙 멤버
@@ -16,11 +19,11 @@
 
 ### :cherries: 프론트
 
-- :boy:[한상우](https://github.com/Han-wo)
-- 👧[이정윤](https://github.com/gramy159)
-- :boy:[신승헌](https://github.com/AdamSeungheonShin)
-- 👧[장혜민](https://github.com/hnitam)
-- :boy:[정민재](https://github.com/wjsdncl)
+- 😊[한상우](https://github.com/Han-wo)
+- :smiley_cat:[이정윤](https://github.com/gramy159)
+- :punch:[신승헌](https://github.com/AdamSeungheonShin)
+- :bulb:[장혜민](https://github.com/hnitam)
+- :facepunch:[정민재](https://github.com/wjsdncl)
 ***
 
 ## STACK
