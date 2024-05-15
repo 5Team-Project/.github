@@ -1,6 +1,9 @@
-# 💻 롤링
+# 💻 FortuneMessage 
+- 팀 로고 ![image](https://github.com/5Team-Project/.github/assets/99471821/e2a67df5-0007-4f06-a4a6-1a9c1e1ece3a)
 
-- React를 이용한 프로젝트
+
+- React를 이용한 기초 프로젝트
+
 - # 개요
 - 소개:  추억의 롤링 페이퍼를 웹 상에서도 즐길 수 있는 플랫폼인 '롤링' 서비스를 제공된 기획과 디자인을 따라 만들어 보자.
 
