@@ -1,5 +1,6 @@
 # 💻 FortuneMessage 
-- 팀 로고 ![image](https://github.com/5Team-Project/.github/assets/99471821/e2a67df5-0007-4f06-a4a6-1a9c1e1ece3a)
+- 팀 로고 
+![image](https://github.com/5Team-Project/.github/assets/99471821/e2a67df5-0007-4f06-a4a6-1a9c1e1ece3a)
 
 
 - React를 이용한 기초 프로젝트
